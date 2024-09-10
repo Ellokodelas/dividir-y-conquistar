@@ -29,6 +29,16 @@
     unordered_lists          // numero de listas desordenadas
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+---------------------------Si se quiere cambiar las cualidades de las matrices----------------------------------
+        Para cambiar como quieres las listas solo entre a generador_m.cpp y en su main salgran los siguientes
+        variables.
+
+        filas1
+        columnas1 
+        filas2
+        columnas2 
+        n_matrices
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 -----------------------------------------------Instrucciones----------------------------------------------------
 
 1.Verificar si existen los archivos "dataset.txt"(listas) y "dataset_m.txt"(matrices), si no existen estas se tiene
